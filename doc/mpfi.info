@@ -1,6 +1,5 @@
-This is /home/ptheveny/svn/mpfi-trunk/mpfi/doc/mpfi.info, produced by
-makeinfo version 4.13 from
-/home/ptheveny/svn/mpfi-trunk/mpfi/doc/mpfi.texi.
+This is /home/ptheveny/svn/mpfi-1.5/doc/mpfi.info, produced by makeinfo
+version 4.13 from /home/ptheveny/svn/mpfi-1.5/doc/mpfi.texi.
 
 INFO-DIR-SECTION Software libraries
 START-INFO-DIR-ENTRY
@@ -32,8 +31,8 @@ translation approved by the Free Software Foundation.
 
 File: mpfi.info,  Node: Top,  Next: Copying,  Prev: (dir),  Up: (dir)
 
-MPFI 1.6-dev.
-*************
+MPFI 1.5.
+*********
 
 This manual documents how to install and use the Multiple Precision
 Floating-Point Interval Library
@@ -1527,32 +1526,32 @@ Function and Type Index
 
 
 Tag Table:
-Node: Top1341
-Node: Copying2416
-Node: Introduction to MPFI4211
-Node: Installing MPFI5535
-Node: Reporting Bugs8854
-Node: MPFI Basics10228
-Node: Interval Functions14064
-Node: Return Values15304
-Node: Precision Handling16277
-Node: Initializing and Assigning Intervals18924
-Node: Initializing Intervals19264
-Node: Assigning Intervals21124
-Node: Simultaneous Interval Init & Assign23118
-Node: Floating-point Quantities24381
-Node: Converting Intervals27477
-Node: Interval Arithmetic27952
-Node: Special Functions34509
-Node: Interval Comparison39332
-Node: I/O of Intervals42160
-Node: Operating on the Endpoints45509
-Node: Set Operations47981
-Node: Miscellaneous Interval Functions49890
-Node: Error Handling51124
-Node: Contributors51731
-Node: References52086
-Node: Concept Index53532
-Node: Function Index56232
+Node: Top1327
+Node: Copying2394
+Node: Introduction to MPFI4189
+Node: Installing MPFI5513
+Node: Reporting Bugs8832
+Node: MPFI Basics10206
+Node: Interval Functions14042
+Node: Return Values15282
+Node: Precision Handling16255
+Node: Initializing and Assigning Intervals18902
+Node: Initializing Intervals19242
+Node: Assigning Intervals21102
+Node: Simultaneous Interval Init & Assign23096
+Node: Floating-point Quantities24359
+Node: Converting Intervals27455
+Node: Interval Arithmetic27930
+Node: Special Functions34487
+Node: Interval Comparison39310
+Node: I/O of Intervals42138
+Node: Operating on the Endpoints45487
+Node: Set Operations47959
+Node: Miscellaneous Interval Functions49868
+Node: Error Handling51102
+Node: Contributors51709
+Node: References52064
+Node: Concept Index53510
+Node: Function Index56210
 
 End Tag Table
