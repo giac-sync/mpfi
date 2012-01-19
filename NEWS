@@ -22,6 +22,7 @@ the Free Software Foundation, Inc.,  51 Franklin St, Fifth Floor, Boston,
 MA 02110-1301, USA
 
 Changes between MPFI version 1.5 and 1.5.1
+
 * fix bug in mpfi_sub_fr (reported by Takayuki YAMAGUCHI)
 * now require at least GMP version 4.1.0 and MPFR version 2.4.2
 * new symbols MPFI_VERSION_MAJOR, MPFI_VERSION_MINOR, MPFI_VERSION_PATCHLEVEL,
